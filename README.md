@@ -8,5 +8,5 @@ wget --no-check-certificate -O /tmp/tunsetup.sh https://raw.githubusercontent.co
 ```
 ## Отдельно Opera Proxy 
 ```sh
-wget --no-check-certificate -O /tmp/opera.sh https://raw.githubusercontent.com/Goblin-Mini/routerich/main/opera.sh && chmod +x /tmp/tunsetup1.sh && /tmp/opera.sh
+wget --no-check-certificate -O /tmp/opera.sh https://raw.githubusercontent.com/Goblin-Mini/routerich/main/opera.sh && chmod +x /tmp/opera.sh && /tmp/opera.sh
 ```
